@@ -5,9 +5,9 @@ To obtain a challenging and responsible position in a professionally managed org
 
 ### Skills
 
--Python
--MS SQL
--Aplication Deployement
+- Python
+- MS SQL
+- Aplication Deployement
 
 
 
@@ -15,7 +15,7 @@ To obtain a challenging and responsible position in a professionally managed org
 
 **Working as Senior Software Engineer @ wipro from last 5+ years**
 
-![Image](https://www.google.co.in/imgres?imgurl=https%3A%2F%2F1sg6qh19z33l3z3rl11fdxdq-wpengine.netdna-ssl.com%2Fwp-content%2Fuploads%2F2017%2F09%2Fcoder-traits.png&imgrefurl=https%3A%2F%2Fwww.elevenfifty.org%2Fdo-you-have-coder-characteristics%2F&docid=1aEwd6hlkSDdkM&tbnid=KVisVoFWBbEA6M%3A&vet=10ahUKEwiq-b_t7frZAhWMQ48KHQNNA0sQMwjxASgCMAI..i&w=772&h=934&safe=active&bih=662&biw=1366&q=coder&ved=0ahUKEwiq-b_t7frZAhWMQ48KHQNNA0sQMwjxASgCMAI&iact=mrc&uact=8)
+![Image](avatar-cool_1x.jpg)
 
 ## Header 2
 ### Header 3
