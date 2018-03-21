@@ -8,16 +8,21 @@ To obtain a challenging and responsible position in a professionally managed org
 - Python
 - MS SQL
 - Aplication Deployement
+- VmWare
 
 # Project
+- E-Helpline
+- ITMS Tool Implementation
+- Nixova
+- D-Matrix
 
 **Working as Senior Software Engineer @ wipro from last 5+ years**
 
 ![Image](avatar-cool_1x.jpg)
 
 ## Hobbies
-![Image](youtube.jpg)
-![Image](cricket.jpg)
+![Image](youtube.png)
+![Image](crcket.jpg)
 ![Image](gym.jpg)
 
 
