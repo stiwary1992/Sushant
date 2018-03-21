@@ -1,4 +1,8 @@
-## Objective
+![Image](avatar-cool_1x.jpg)
+
+**Working as Senior Project Engineer @ wipro from last 5+ years**
+
+# Objective
 
 To obtain a challenging and responsible position in a professionally managed organization and looking forward to an opportunity where I can utilize my skills in contributing effectively to the success of the organization and also to further improve my personal skills by taking challenging assignments.
 
@@ -16,13 +20,11 @@ To obtain a challenging and responsible position in a professionally managed org
 - Nixova
 - D-Matrix
 
-**Working as Senior Software Engineer @ wipro from last 5+ years**
 
-![Image](avatar-cool_1x.jpg)
 
 ## Hobbies
 ![Image](youtube.png)
-![Image](crcket.jpg)
+![Image](cicket.jpg)
 ![Image](gym.jpg)
 
 
