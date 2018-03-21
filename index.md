@@ -16,9 +16,9 @@ To obtain a challenging and responsible position in a professionally managed org
 ![Image](avatar-cool_1x.jpg)
 
 ## Hobbies
-- Bakchodi
-- Bhayankar Bakchodi
-- Legend Level Backchodi
+![Image](youtube.jpg)
+![Image](cricket.jpg)
+![Image](gym.jpg)
 
 
 
